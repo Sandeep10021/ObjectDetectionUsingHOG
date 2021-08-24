@@ -1,4 +1,4 @@
-# Object Detection using HOG
+# Pedestrian Detection using HOG
 This is an application of Object detection using Histogram of Oriented Gradients (HOG) as features and Support Vector Machines (SVM) 
 as the classifier. 
 
